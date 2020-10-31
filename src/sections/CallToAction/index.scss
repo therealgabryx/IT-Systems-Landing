@@ -1,4 +1,9 @@
 div.CallToAction {
-    background-color: honeydew;
-    min-height: 100vh;
+    background-color: gray;
+    min-height: 40vh;
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }

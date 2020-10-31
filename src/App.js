@@ -16,6 +16,7 @@ function App() {
       <Solutions/>
       <Services/>
       <CallToAction/>
+      <CallToAction/>
       <Footer/>
     </div>
   );

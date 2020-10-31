@@ -1,4 +1,13 @@
 div.Solutions {
-    background-color: antiquewhite;
-    min-height: 100vh;
+    background-color: gray;
+    min-height: 200vh;
+    padding: 0 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    * {
+        margin: 1rem 0;
+    }
 }
