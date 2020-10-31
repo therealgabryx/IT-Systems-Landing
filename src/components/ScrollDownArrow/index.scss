@@ -1,0 +1,19 @@
+div.ScrollDownArrow { 
+    display: inline-block;
+    font-size: 62.5%;
+
+    svg {
+        font-size: 2.5rem;
+        animation: scrollDown 1.0s infinite alternate ease-in-out;
+    } 
+
+    @keyframes scrollDown {
+        0% {
+            transform: translateY(0);
+        }
+
+        100% {
+            transform: translateY(2rem);
+        }
+    }
+} 
