@@ -1,4 +1,9 @@
-div.Hero {
+div.Hero { 
     background-color: gray;
     min-height: 100vh;
-}
+    padding: 0 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+} 

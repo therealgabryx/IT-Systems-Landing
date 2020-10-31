@@ -1,6 +1,7 @@
 div.ScrollDownArrow {
   display: inline-block;
   font-size: 62.5%;
+  margin-bottom: 5rem;
 }
 
 div.ScrollDownArrow svg {
